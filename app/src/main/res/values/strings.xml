@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Actividad turística</string>
+    <string name="pref_file">com.auth.preference_file_key</string>
+    <string name="text_logout">Cerrar Sesión</string>
+    <string name="refresh">Recargando</string>
+    <string name="hint_id">Id</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Constraseña</string>
+    <string name="text_nombre">Nombre</string>
+    <string name="text_descripcion">Descripción</string>
+    <string name="text_cantidad">Cantidad Personas Descuento</string>
+    <string name="text_costo">Costo</string>
+    <string name="text_porcentaje">Porcentaje descuento</string>
+    <string name="text_acceder">Acceder</string>
+    <string name="text_registrar">Registrar</string>
+    <string name="tv_fallo">Error...</string>
+</resources>
